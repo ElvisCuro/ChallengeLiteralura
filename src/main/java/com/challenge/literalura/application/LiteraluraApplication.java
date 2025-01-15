@@ -1,4 +1,4 @@
-package com.challenge.literalura;
+package com.challenge.literalura.application;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
